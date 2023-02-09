@@ -1,5 +1,2 @@
-7-everybody
+#!/bin/bash
 chmod ugo+x hello
-[master e34ec9d] the group owner and the other users
- 1 file changed, 2 insertions(+)
- create mode 100755 0x01-shell_permissions/7-everybody
